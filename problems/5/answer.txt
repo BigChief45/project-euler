@@ -1,0 +1,2 @@
+Smallest = 232792560
+Running time: 225.188469887
