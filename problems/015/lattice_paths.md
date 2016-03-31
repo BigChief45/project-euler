@@ -10,7 +10,7 @@
 
 This problem does not require programming. 
 
-From this source: [](http://www.robertdickau.com/manhattan.html):
+From this source: [http://www.robertdickau.com/manhattan.html](http://www.robertdickau.com/manhattan.html):
 
 >... each of the points is described by the binomial coefficients, and the sequence of path counts for lattices of different sizes is 1, 2, 6, 20, 70, …, also known as the central binomial
 >coefficients.
